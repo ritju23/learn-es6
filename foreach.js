@@ -1,9 +1,8 @@
-/*  var colors = ['red', 'blue', 'white'];
-for (var i=0; i<colors.length; i++){
-console.log(colors[i]);
+  var colors = ['red', 'blue', 'white'];
+
 colors.forEach(function(color){
     console.log(color);
-});}  */
+}); 
 
 // create an array of numbers
 var numbers = [1,2,3,4,5];          
