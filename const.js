@@ -13,3 +13,4 @@ function A (){
     for(var i=15; i>=num2; i--)
     console.log(i);}
     A();
+
