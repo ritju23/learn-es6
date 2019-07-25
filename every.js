@@ -1,7 +1,7 @@
 var computers =[
-    {name:'hp' , ram: 32},
-    {name:'blackberry' , ram: 64},
-    {name:'dell' , ram: 16}
+    {name:'hp' , ram: 35},
+    {name:'blackberry' , ram: 34},
+    {name:'dell' , ram: 26}
 ];
 
 
